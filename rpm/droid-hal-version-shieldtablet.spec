@@ -1,7 +1,7 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device shieldtablet
-%define vendor nvidia
+%define rpm_device shieldtablet
+%define rpm_vendor nvidia
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty NVIDIA
